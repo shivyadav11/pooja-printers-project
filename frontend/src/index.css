@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html {
+  scroll-behavior: smooth;
+}
+
+.blink {
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+ /* .multi-blink {
+  font-size: 30px;
+  font-weight: bold;
+  animation: multiColorBlink 1s infinite;
+}
+
+@keyframes multiColorBlink {
+  0%   { color: red; opacity: 1; }
+  25%  { color: blue; opacity: 0; }
+  50%  { color: green; opacity: 1; }
+  75%  { color: orange; opacity: 0; }
+  100% { color: purple; opacity: 1; }
+} */
+
