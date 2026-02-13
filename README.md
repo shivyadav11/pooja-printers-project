@@ -7,6 +7,7 @@ This project includes a complete **User Website + Admin Panel + Backend API + Mo
 
 
 
+
 ## 🌟 Project Highlights
 
 ✅ Modern & Premium UI Design  
@@ -77,6 +78,8 @@ This project includes a complete **User Website + Admin Panel + Backend API + Mo
 - CORS
 
 ---
+
+
 
 ## 📁 Folder Structure
 
@@ -167,3 +170,4 @@ Default Admin Credentials
 Email: admin@pooja.com
 Password: 12345
 
+Live demo: https://pooja-printers-project.vercel.app/services
