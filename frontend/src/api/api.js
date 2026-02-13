@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:5000/api",
+  baseURL: "https://pooja-printers-backend.onrender.com/api",
 });
 
 // Auto add token in headers
