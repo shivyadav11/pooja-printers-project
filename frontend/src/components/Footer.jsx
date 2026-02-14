@@ -11,7 +11,7 @@ export default function Footer() {
             <span className="text-orange-500">PRINTERS</span>
           </h1>
           <p className="text-gray-300 mt-3 text-sm leading-relaxed">
-            Premium printing solutions in Kandivali West, Mumbai.  
+            Premium printing solutions in  Mumbai.  
             Visiting cards, bill books, stickers, banners, pamphlets & more.
           </p>
         </div>
@@ -32,13 +32,13 @@ export default function Footer() {
         <div>
           <h3 className="text-lg font-bold">Contact</h3>
           <p className="mt-3 text-sm text-gray-300 leading-relaxed">
-            📍 Kandivali West, Mumbai <br />
-            📞 +91 7506110844<br />
+            📍, Mumbai <br />
+            📞 +91 9999999999<br />
             ⏰ Mon-Sat: 10 AM - 9 PM
           </p>
 
           <a
-            href="https://wa.me/917506110844"
+            href="https://wa.me/919999999999"
             target="_blank"
             rel="noreferrer"
             className="inline-block mt-4 px-5 py-2 rounded-xl bg-green-500 text-white font-semibold hover:bg-green-600 transition"

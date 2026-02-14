@@ -26,7 +26,7 @@ export default function PricingCard({ title, price, unit, features }) {
         </a>
 
         <a
-          href="https://wa.me/917506110844"
+          href="https://wa.me/919999999999"
           target="_blank"
           rel="noreferrer"
           className="px-4 py-2 rounded-xl bg-green-500 text-white font-medium hover:bg-green-600 transition w-full text-center"

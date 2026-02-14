@@ -15,7 +15,7 @@ export default function Contact() {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    const whatsappNumber = "917506110844"; // replace with real number later
+    const whatsappNumber = "919999999999"; // replace with real number later
 
     const finalMessage = `
 Hello Pooja Printers 👋
@@ -64,14 +64,14 @@ Please contact me.
               <div>
                 <h3 className="font-bold text-gray-900">📍 Address</h3>
                 <p className="text-sm mt-1">
-                  Shop No. 14, Om Jai Shree Society, Mahavir Nagar, Kandivali
+                  Shop No. 14, , Mahavir Nagar, 
                   West, Mumbai - 400067
                 </p>
               </div>
 
               <div>
                 <h3 className="font-bold text-gray-900">📞 Phone</h3>
-                <p className="text-sm mt-1">+91 7506110844</p>
+                <p className="text-sm mt-1">+91 919999999999</p>
               </div>
 
               <div>
@@ -86,14 +86,14 @@ Please contact me.
             {/* BUTTONS */}
             <div className="mt-8 flex gap-4 flex-wrap">
               <a
-                href="tel:917506110844"
+                href="tel:919999999999"
                 className="px-6 py-3 rounded-xl bg-blue-600 text-white font-semibold hover:bg-blue-700 transition"
               >
                 Call Now
               </a>
 
               <a
-                href="https://wa.me/917506110844"
+                href="https://wa.me/919999999999"
                 target="_blank"
                 rel="noreferrer"
                 className="px-6 py-3 rounded-xl bg-green-500 text-white font-semibold hover:bg-green-600 transition"

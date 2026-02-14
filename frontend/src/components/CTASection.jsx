@@ -3,7 +3,7 @@ export default function CTASection() {
     <section className="py-16 bg-gradient-to-r from-blue-600 to-indigo-700 text-white">
       <div className="max-w-6xl mx-auto px-6 text-center">
         <h2 className="text-3xl md:text-4xl font-extrabold">
-          Need Printing Services in Kandivali?
+          Need Printing Services in Mumbai ?
         </h2>
 
         <p className="mt-4 text-lg text-blue-100 max-w-2xl mx-auto">
@@ -20,7 +20,7 @@ export default function CTASection() {
           </a>
 
           <a
-            href="https://wa.me/917506110844"
+            href="https://wa.me/919999999999"
             target="_blank"
             className="px-6 py-3 rounded-xl bg-green-500 text-white font-semibold hover:bg-green-600 transition"
           >

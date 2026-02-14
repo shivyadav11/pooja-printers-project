@@ -114,7 +114,7 @@ export default function Portfolio() {
               </a>
 
               <a
-                href="https://wa.me/917506110844"
+                href="https://wa.me/919999999999"
                 target="_blank"
                 rel="noreferrer"
                 className="px-6 py-3 rounded-xl bg-green-500 text-white font-semibold hover:bg-green-600 transition"
