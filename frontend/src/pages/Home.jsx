@@ -84,7 +84,7 @@ export default function Home() {
               to="/quote"
               className="px-7 py-3 rounded-xl bg-blue-600 text-white font-semibold hover:bg-blue-700 transition"
             >
-              Get Quote
+              Get Touch In 
             </Link>
 
             <a
@@ -93,7 +93,7 @@ export default function Home() {
               rel="noreferrer"
               className="px-7 py-3 rounded-xl bg-green-500 text-white font-semibold hover:bg-green-600 transition"
             >
-              WhatsApp Order
+              Our whatsapp service
             </a>
           </div>
         </div>
@@ -197,7 +197,7 @@ export default function Home() {
           <div className="flex justify-between items-center flex-wrap gap-4">
             <div>
               <h2 className="text-3xl font-extrabold text-gray-900">
-                Latest Portfolio
+                Our Latest Portfolio
               </h2>
               <p className="mt-2 text-gray-600">
                 Some of our recent printing work.
@@ -236,7 +236,7 @@ export default function Home() {
           <div className="flex justify-between items-center flex-wrap gap-4">
             <div>
               <h2 className="text-3xl font-extrabold text-gray-900">
-                Pricing Packages
+                Our Pricing Packages
               </h2>
               <p className="mt-2 text-gray-600">
                 Affordable pricing for all printing needs.
@@ -314,7 +314,7 @@ export default function Home() {
               to="/quote"
               className="px-7 py-3 rounded-xl bg-white text-blue-600 font-semibold hover:bg-gray-100 transition"
             >
-              Get Quote
+              Get touch In
             </Link>
 
             <a
@@ -323,7 +323,7 @@ export default function Home() {
               rel="noreferrer"
               className="px-7 py-3 rounded-xl bg-green-500 text-white font-semibold hover:bg-green-600 transition"
             >
-              WhatsApp Order
+              Our WhatsApp Service
             </a>
           </div>
         </div>
