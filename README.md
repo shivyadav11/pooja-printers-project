@@ -81,8 +81,10 @@ This project includes a complete **User Website + Admin Panel + Backend API + Mo
 
 
 
-## 📁 Folder Structure
 
+## Project Structure
+
+```
 pooja-printers-project/
 │
 ├── frontend/
@@ -115,7 +117,7 @@ pooja-printers-project/
 │ ├── package.json
 │
 └── README.md
-
+```
 # 🚀 Setup Guide (Zero to Run)
 
 ## 1️⃣ Clone Repository
