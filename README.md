@@ -175,3 +175,4 @@ Password: 12345
 Live demo: https://pooja-printers-project.vercel.app/services
 A printing business website project.
 Built with React, Node.js and MongoDB.
+Includes an admin panel and REST API.
